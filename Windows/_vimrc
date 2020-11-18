@@ -53,22 +53,22 @@ let g:netrw_list_hide.=',\(^\|\s\s\)\zs\.\S\+'
 
 " For other setting I use:
 
-#show line numbers
+"show line numbers
 set nu
-#auto indent
+"auto indent
 set ai
-# tab = 4 spacebar
+" tab = 4 spacebar
 set tabstop=4
-#how many spacebar a indent will be when you use the shiftwidth function
+"how many spacebar a indent will be when you use the shiftwidth function
 set shiftwidth=4
-#set to transform every tab into space , but don't effect current tab in file.
-#use :retab to replace every current tab into space
+"set to transform every tab into space , but don't effect current tab in file.
+"use :retab to replace every current tab into space
 set expandtab
 
-#let vim more colorful
+"let vim more colorful
 set t_Co=256
 
-#for editing convenience
+"for editing convenience
 :inoremap( ()<Esc>i
 :inoremap' ''<Esc>i
 :inoremap" ""<Esc>i
