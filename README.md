@@ -1,10 +1,10 @@
 # VIMRC
 this is the current vimrc file I use.
 
-##For Windows
+## For Windows
 place the _vimrc file under your "C:/Users/<your user name>/"
 
-##For Linux
+## For Linux
 place the .vimrc under your "/home/<your user name>/"
 
 
