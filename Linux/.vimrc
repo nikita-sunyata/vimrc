@@ -75,3 +75,5 @@ set t_Co=256
 :inoremap[ []<Esc>i
 :inoremap{ {}<Esc>i
 
+"for cursorline
+set cursorline
